@@ -1,0 +1,6 @@
+{
+    "username": "nburglin",
+    "password": "S0meP@ssword",
+    "url": "https://bamboo.mycompany.com:8443/rest/api/latest/agent/remote?online&os_authType=basic",
+    "skipsslverify": true
+}
