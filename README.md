@@ -78,3 +78,7 @@ More info on PRTG's SSH Script Advanced Sensor found here:
 
 Bamboo API Info (tested as of 6.6.1)
  - [Bamboo API Info](https://docs.atlassian.com/atlassian-bamboo/REST/latest)
+
+
+## To-Do
+ * Add another setting so the PRTG formatting just comes as an option. That way people can use this to just return the count without the extra tags
