@@ -40,7 +40,7 @@ Example file contents:
 
 There is a samle settings.json in this repo that you can overwrite to use. Special characters like '!' work fine with basic auth
 
-##Create Executable
+## Create Executable
 
 It's expected that you have GO installed locally. You can execute the command below to retrieve the source
 
