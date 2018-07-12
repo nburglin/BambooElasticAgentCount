@@ -33,7 +33,7 @@ Example file contents:
 {
     "username": "nburglin",
     "password": "somepassword",
-    "url": "https://bamboo.mycompany.com:8443/rest/api/latest/agent/remote?online&os_authType=basic"
+    "url": "https://bamboo.mycompany.com:8443/rest/api/latest/agent/remote?online&os_authType=basic",
     "skipsslverify": true
 }
 ```
